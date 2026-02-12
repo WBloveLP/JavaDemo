@@ -1,2 +1,2 @@
 # JavaDemo
-JavaDemo
+Java Simple Demo

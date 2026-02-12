@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>programmer.lp</groupId>
+    <artifactId>redis</artifactId>
+    <version>1.0.0</version>
+    <packaging>war</packaging>
+
+<!--    <dependencies>-->
+<!--        &lt;!&ndash;引入jedis连接依赖&ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>redis.clients</groupId>-->
+<!--            <artifactId>jedis</artifactId>-->
+<!--            <version>3.1.0</version>-->
+<!--        </dependency>-->
+<!--    </dependencies>-->
+</project>
