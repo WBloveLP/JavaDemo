@@ -1,2 +1,0 @@
-# JavaDemo
-Java Simple Demo
