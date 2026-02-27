@@ -1,4 +1,4 @@
-package com.example.sampledemo;
+package com.example.sampledemo.test;
 
 import java.time.LocalDate;
 import java.util.concurrent.atomic.AtomicInteger;

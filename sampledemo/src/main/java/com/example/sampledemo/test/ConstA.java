@@ -1,4 +1,4 @@
-package com.example.sampledemo;
+package com.example.sampledemo.test;
 
 public class ConstA {
     public static final int I = 1;
