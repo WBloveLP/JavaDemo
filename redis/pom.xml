@@ -8,12 +8,12 @@
     <version>1.0.0</version>
     <packaging>war</packaging>
 
-<!--    <dependencies>-->
-<!--        &lt;!&ndash;引入jedis连接依赖&ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>redis.clients</groupId>-->
-<!--            <artifactId>jedis</artifactId>-->
-<!--            <version>3.1.0</version>-->
-<!--        </dependency>-->
-<!--    </dependencies>-->
+    <dependencies>
+        <!--引入jedis连接依赖-->
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+    </dependencies>
 </project>
