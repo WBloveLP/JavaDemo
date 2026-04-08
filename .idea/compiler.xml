@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloudlibrary" />
+        <module name="printReqPath" />
+        <module name="redis" />
       </profile>
       <profile name="Annotation profile for sampledemo" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -15,14 +18,9 @@
           <entry name="$PROJECT_DIR$/../../mvn_rep/org/springframework/boot/spring-boot-configuration-processor/4.0.1/spring-boot-configuration-processor-4.0.1.jar" />
           <entry name="$PROJECT_DIR$/../../mvn_rep/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
         </processorPath>
+        <module name="sampledemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="cloudlibrary" target="1.8" />
-      <module name="printReqPath" target="17" />
-      <module name="redis" target="1.8" />
-      <module name="sampledemo" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
